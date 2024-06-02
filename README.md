@@ -233,8 +233,7 @@ The model achieves an accuracy of around 88% on the validation set, making it a 
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/Baksiova/ML-Mushrooms-Classification
-    cd mushroom-classification
-    ```
+    cd ML-Mushrooms-Classification    ```
 
 2. **Install Dependencies**:
     Ensure you have Python and pip installed, then run:
