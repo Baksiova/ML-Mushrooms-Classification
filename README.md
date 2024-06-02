@@ -232,7 +232,7 @@ The model achieves an accuracy of around 88% on the validation set, making it a 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/mushroom-classification.git
+    git clone https://github.com/Baksiova/ML-Mushrooms-Classification
     cd mushroom-classification
     ```
 
